@@ -1,24 +1,17 @@
-# README
+# Postive Now
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Instagram Clone for Positive Psychology Resources
 
-Things you may want to cover:
+## Integrated Devise
+## Set up Posts
+## Bootstrap plus Bare bootstrap template
+## Nav links with link to and correct routes via "rake routes"
+## Created Bare bones form for posts
 
-* Ruby version
+# Next Steps
 
-* System dependencies
+##Set up paperclip for photos. 
 
-* Configuration
+Min. 15:20 https://www.youtube.com/watch?v=MpFO4Zr0EPE
 
-* Database creation
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
