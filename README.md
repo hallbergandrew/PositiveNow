@@ -14,4 +14,11 @@
 
 Min. 15:20 https://www.youtube.com/watch?v=MpFO4Zr0EPE
 
+User Stories
+Users will be able to post positive messages and photos to the wall
+Users will be able to like/love positive messages they like
+Users will be able to save messages they see and like to a board
+Users will be able to add other users as friends and see their posts specifically. 
 
+
+Other features....
